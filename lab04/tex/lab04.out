@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Ground-truth generation}{}% 2
+\BOOKMARK [1][-]{section.3}{Segmentation}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{PDF-based segmentation}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Fuzzy C-Means segmentation}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Level set segmentation}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Evaluation}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{PDF based method}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Fuzzy C-Means method}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{Level set method}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Own implementation}{}% 11
